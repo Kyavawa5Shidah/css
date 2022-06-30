@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.data {
+    background-color: blueviolet;
+
+}
+.data:hover{
+    background-color: antiquewhite;
+}
+.educational {
+    background-color: red;
+
+    margin-left: 400px;
+
+}
+.educational:hover {
+    background-color: rebeccapurple;
+}
+.photo {
+    background-color:greenyellow;
+    margin-left :800px;
+    margin-top:-600px ;
+
+}
+.photo:hover {
+    background-color: royalblue;
+}
+.hobbies {
+    background-color: aqua;
+
+    margin-top: 300px;
+}
+.hobbies:hover {
+    background-color: goldenrod;
+}
+.contact {
+    background-color: brown;
+
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.contact:hover{
+    background-color: green;
+}
+p {
+    display: inline-block;
+}
+a {
+    display: block;
+    width: 400px;
+    height :300px;
+}
+div {
+    width: 400px;
+    height :300px;
+    line-height: 300px;
+    text-align: center;
+}
